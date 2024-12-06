@@ -1,7 +1,7 @@
 package org.example;
 
 
-import java.util.List; // Add this import
+import java.util.List;
 import org.example.Student;
 import org.example.Teacher;
 import org.example.Course;
