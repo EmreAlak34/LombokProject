@@ -1,13 +1,10 @@
 package org.example;
 
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.Builder;
-import lombok.With;
+import lombok.*;
 
 import java.util.List;
 
-@Data
+@Value
 @Builder
 @With
 public class Course {
